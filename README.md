@@ -4,7 +4,7 @@
 
 - Gustavo Rabelo Frere | RM:553326
 - Mellina Comelli Koike Tavares | RM:554046
-- Marcelo Veira Junior | RM:553640
+- Marcelo Vieira Junior | RM:553640
 
 ## Descrição
 
